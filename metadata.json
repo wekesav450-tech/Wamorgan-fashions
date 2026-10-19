@@ -1,0 +1,8 @@
+{
+  "name": "Wamorgan Wholesalers",
+  "description": "Official showcase and business profile for Wamorgan Wholesalers & Wa Morgan Fashions, serving Nakuru, Kakamega, Eldoret, and Kitale with quality wholesale and retail fashion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
